@@ -1,0 +1,10 @@
+[package]
+name = "ternary-projection"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Dimensionality reduction for ternary spaces using PCA, random projection, and t-SNE-like embedding"
+keywords = ["ternary", "pca", "projection", "dimensionality", "embedding"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dependencies]
