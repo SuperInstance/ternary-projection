@@ -94,3 +94,12 @@ fn main() {
 ## License
 
 MIT
+
+## See Also
+- **ternary-pca** — related
+- **ternary-matrix** — related
+- **ternary-tensor** — related
+- **ternary-geometry** — related
+- **ternary-topology** — related
+- **ternary-clustering** — related
+
